@@ -1,0 +1,6 @@
+2019/08/06-15:18:39.597 548f Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/08/06-15:18:39.606 548f Recovering log #19
+2019/08/06-15:18:39.607 548f Reusing old log Session Storage/000019.log 
+2019/08/06-15:21:05.046 5b7c Level-0 table #23: started
+2019/08/06-15:21:05.050 5b7c Level-0 table #23: 22942 bytes OK
+2019/08/06-15:21:05.052 5b7c Delete type=0 #19
