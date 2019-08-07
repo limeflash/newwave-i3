@@ -44,6 +44,22 @@ cp -a /home/limeflash/.config/polybar/ /home/limeflash/manjaro/old_files/.config
 cp -a /home/limeflash/.config/VSCodium/ /home/limeflash/manjaro/old_files/.config
 cp -r /home/limeflash/.config/compton.conf /home/limeflash/manjaro/old_files/.config/compton.conf 
 cp -r /home/limeflash/.config/i3-scrot.conf /home/limeflash/manjaro/old_files/.config/i3-scrot.conf
+echo '##################################################################'
+echo '# ****deleting old files in 5 sec... CTRL+C to abort****                ##'
+echo '##################################################################'
+sleep 6
 echo 'xxx Deleting not neccesary files. Do not abort!!!'
-
-echo 'all finished!'
+rm -rf /home/limeflash/.config/BraveSoftware/
+rm -rf /home/limeflash/.config/Code*/ 
+rm -rf /home/limeflash/.config/nitrogen/
+rm -rf /home/limeflash/.config/rofi/
+rm -rf /home/limeflash/.config/polybar/
+rm -rf /home/limeflash/.config/VSCodium/ 
+rm -rf /home/limeflash/.config/compton.conf
+rm -rf /home/limeflash/.config/i3-scrot.conf 
+rm -rf /home/limeflash/.i3/
+rm -rf /home/limeflash/.aur/
+rm -rf /home/limeflash/.zshrc
+rm -rf /home/limeflash/.bashrc
+rm -rf /home/limeflash/.Xresources
+rm -rf /home/limeflash/.oh-my-zsh 
